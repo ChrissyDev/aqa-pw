@@ -25,7 +25,7 @@ const config = defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     headless: false,
-    baseURL: 'https://quato.forstudy.space/',
+    baseURL: 'https://qauto.forstudy.space/',
     httpCredentials:{
       username: "guest",
       password: 'welcome2qauto'
